@@ -2,7 +2,7 @@ import pandas as pd
 import win32com.client as win32
 
 # Path to the CSV file containing company and email data
-csv_path = r"C:\Users\91837\Downloads\KOGNITIV SPREADSHEETS FOR COLABS - Companies.csv"
+csv_path = r"Companies.csv"
 
 # Load the CSV file
 data = pd.read_csv(csv_path)
