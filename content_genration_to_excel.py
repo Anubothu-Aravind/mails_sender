@@ -1,7 +1,7 @@
 import pandas as pd
 
 # Load your CSV file
-csv_path = r"C:\Users\91837\Downloads\KOGNITIV SPREADSHEETS FOR COLABS - Companies.csv"  # Replace with the actual path to your CSV
+csv_path = r"C:\Users\91837\Downloads"  # Replace with the actual path to your CSV
 data = pd.read_csv(csv_path)
 
 # Template for the email
@@ -10,7 +10,7 @@ Subject: Collaboration with {Company}
 
 Dear {Company} Team,
 
-Warm Greetings from Kognitiv Club at KL University.
+Warm Greetings from Intelligentsia Club at KL University.
 
 It is a matter of great honor to reach out to the pioneering organization, {Company}, that boldly spearheads open research and innovation in the arena of Artificial Intelligence. We at Kognitiv Club are a student-led association that focuses on developing AI and machine learning through research, development, and meaningful projects.
 
@@ -23,7 +23,7 @@ We would really appreciate the opportunity to discuss possible areas for coopera
 Thank you for considering our request. We look forward eagerly to hearing from you and are anxious to work together towards achieving our mutual goals.
 
 Best regards,  
-The Kognitiv Club Team  
+The Intelligentsia Club Team  
 KL University  
 [Your Contact Email]  
 """
