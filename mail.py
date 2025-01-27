@@ -78,7 +78,7 @@ def send_test_email(outlook_user, outlook_password):
         msg["To"] = outlook_user
         msg["Subject"] = "Login Test"
 
-        body = "This is a test email to validate your login credentials."
+        body = "Congratulations! You have successfully logged in to our outreach automation tool at https://outreach-automater-by-intelligentisaclub.streamlit.app/. Please validate your login credentials."
         msg.attach(MIMEText(body, "plain"))
 
         with smtplib.SMTP("smtp-mail.outlook.com", 587) as server:
