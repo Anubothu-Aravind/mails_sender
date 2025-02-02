@@ -1,5 +1,5 @@
 
-# Email Automation for Kognitiv Club Collaborations
+# Email Automation for Intelligentsia Club Collaborations
 
 This project streamlines the process of reaching out to organizations for potential collaborations by generating personalized emails from a list of companies and their details. The project consists of generating email drafts in Excel and sending them using Python scripts.
 
@@ -88,7 +88,7 @@ Contributions are welcome! Please open an issue or submit a pull request with an
 
 ### Acknowledgements
 
-Special thanks to the Kognitiv Club at KL University for their mission to foster collaboration and innovation in Artificial Intelligence.
+Special thanks to the Intelligentsia Club at KL University for their mission to foster collaboration and innovation in Artificial Intelligence.
 
 
 
